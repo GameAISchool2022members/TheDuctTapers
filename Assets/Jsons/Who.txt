@@ -1,0 +1,72 @@
+{
+	"Who":[
+		{
+			"whoPhrase":"A private invastigator ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A fancy chicken ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A legless lizard ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A psychologist dog ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A red-lipped batfish ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A raspberry crazy ant ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"Guest Stars on Sitcoms ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"Bicycles cops ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A one-hand pianist ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A one-foot kangaroo ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"Social media stalkers ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"Bob Ross ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A wise cougar ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A funky elf ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A weid donkey ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A terrible bug ",
+			"whoFactor":0.12
+		},
+		{
+			"whoPhrase":"A catdog ",
+			"whoFactor":0.12
+		}
+	]
+}

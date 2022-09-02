@@ -1,0 +1,84 @@
+{
+	"Obj":[
+		{
+			"objPhrase":"a banana.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"a shampoo bottle.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"a pizza on a record player.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"the DVD idle screen.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"the Wikipedia article for the letter A.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"a pencil.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"fish skeletons.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"fluorescent lights.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"school computers.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"lots of cash.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"an offer.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"an elevator fart.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"dad humor.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"Mississippiphobia.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"existence.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"tiny little dinosaur arms.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"doomsday device.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"dudeism.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"acid rain.",
+			"objFactor":0.12
+		},
+		{
+			"objPhrase":"robot poop.",
+			"objFactor":0.12
+		}
+	]
+}

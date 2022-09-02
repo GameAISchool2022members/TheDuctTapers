@@ -1,0 +1,84 @@
+{
+	"Verb":[
+		{
+			"verbPhrase":"slamed you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"stabed you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"motivated you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"inspired you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"stunned you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"hacked you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"accelerated you ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"blinded you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"critised you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"poisoned you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"offered you ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"assisted you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"awarded you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"chased you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"dragged you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"encouranged you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"equiped you with ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"harassed you with ",
+			"verbFactor":false
+		},
+		{
+			"verbPhrase":"informed you about ",
+			"verbFactor":true
+		},
+		{
+			"verbPhrase":"mentored you with ",
+			"verbFactor":true
+		}
+	]
+}

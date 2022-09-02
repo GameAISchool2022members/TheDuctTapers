@@ -1,0 +1,56 @@
+ {
+	"EventClass":[
+		{
+			"eventPhrase":"You wasted you life on useless websites. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"You toasted your hand in a toaster. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"You placed a 2 in binary code. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"The simulation became a reality. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"Taxes doubled up. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"Bugs are everywhere. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"A coding bug grew legs. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"Fridges cannot cool things anymore. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"No. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"Yes. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"A horny bear ate all the honey. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"A pig just stole your perfume. ",
+			"eventFactor":0.12
+		},
+		{
+			"eventPhrase":"What? Where? Oh... ",
+			"eventFactor":0.12
+		}
+	]
+}
